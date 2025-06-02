@@ -17,8 +17,6 @@ from datetime import datetime
 from typing import List, Dict, Any, Optional
 from firecrawl import FirecrawlApp
 
-# Default API key for FirecrawlApp
-
 # Default URL to scrape if none is provided
 DEFAULT_URL = 'https://builtin.com/jobs/remote/hybrid/office/51-200/201-500?search=Sales+Development+Representative&country=USA&allLocations=true'
 
