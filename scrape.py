@@ -18,7 +18,6 @@ from typing import List, Dict, Any, Optional
 from firecrawl import FirecrawlApp
 
 # Default API key for FirecrawlApp
-DEFAULT_API_KEY = 'fc-fe433028de91410d9107ea99bdaef872'
 
 # Default URL to scrape if none is provided
 DEFAULT_URL = 'https://builtin.com/jobs/remote/hybrid/office/51-200/201-500?search=Sales+Development+Representative&country=USA&allLocations=true'
