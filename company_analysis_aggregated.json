@@ -1,0 +1,349 @@
+{
+  "companies": [
+    {
+      "name": "ZoomInfo",
+      "job_count": 4,
+      "job_titles": [
+        "Sales Development Representative",
+        "Sales Development Representative, Enterprise",
+        "Sales Development Representative, Mid-Market"
+      ]
+    },
+    {
+      "name": "Wing Assistant",
+      "job_count": 3,
+      "job_titles": [
+        "Sales Development Representative - US (affiliate job post)",
+        "Sales Development Representative (US)",
+        "Sales Development Representative + Lead Gen"
+      ]
+    },
+    {
+      "name": "Scorpion Enterprises",
+      "job_count": 2,
+      "job_titles": [
+        "Sales Development Representative",
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Coefficient",
+      "job_count": 2,
+      "job_titles": [
+        "Enterprise Sales Development Representative",
+        "Commercial Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Spectrum",
+      "job_count": 2,
+      "job_titles": [
+        "Advertising Account Executive",
+        "Senior Manager, Creative Operations Business"
+      ]
+    },
+    {
+      "name": "Planet",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Beans.ai",
+      "job_count": 1,
+      "job_titles": [
+        "Enterprise Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Otter Technologies, Inc",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative (SDR)"
+      ]
+    },
+    {
+      "name": "ClassDojo",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Abnormal Security",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative - SLED"
+      ]
+    },
+    {
+      "name": "Moveworks",
+      "job_count": 1,
+      "job_titles": [
+        "Mid-market Sales Development Representative - Central"
+      ]
+    },
+    {
+      "name": "Brushfire",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Muck Rack",
+      "job_count": 1,
+      "job_titles": [
+        "Outbound Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Eulerity",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Canonical",
+      "job_count": 1,
+      "job_titles": [
+        "Graduate Sales Development Representative"
+      ]
+    },
+    {
+      "name": "SevenRooms",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "ROLLER",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "North (north.com)",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Innovation Works, Inc.",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative - IDELIC"
+      ]
+    },
+    {
+      "name": "J.B. Hunt Transport Services, Inc.",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Intelerad Medical Systems",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative (SDR)"
+      ]
+    },
+    {
+      "name": "ExtraHop",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative - Must be in Raleigh"
+      ]
+    },
+    {
+      "name": "Grafana Labs",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative, West (Remote, California, Portland or Seattle)"
+      ]
+    },
+    {
+      "name": "Maven AGI",
+      "job_count": 1,
+      "job_titles": [
+        "Senior Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Otter Public Relations",
+      "job_count": 1,
+      "job_titles": [
+        "High-Ticket Sales Development Representative (SDR)"
+      ]
+    },
+    {
+      "name": "Coinbase",
+      "job_count": 1,
+      "job_titles": [
+        "Engineering Manager (Platform)"
+      ]
+    },
+    {
+      "name": "BlackRock",
+      "job_count": 1,
+      "job_titles": [
+        "Aladdin Business Development, Vice President"
+      ]
+    },
+    {
+      "name": "Klaviyo",
+      "job_count": 1,
+      "job_titles": [
+        "Senior Director, Web Experience"
+      ]
+    },
+    {
+      "name": "Emigrant Bank",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Feedzai",
+      "job_count": 1,
+      "job_titles": [
+        "Senior Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Veza Technologies",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "dataplor",
+      "job_count": 1,
+      "job_titles": [
+        "Outbound Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Biller Genie",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative - SaaS (Orlando, FL)"
+      ]
+    },
+    {
+      "name": "Recurly",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative - Outbound"
+      ]
+    },
+    {
+      "name": "Block",
+      "job_count": 1,
+      "job_titles": [
+        "Product Marketing Manager, Card"
+      ]
+    },
+    {
+      "name": "Brainscape",
+      "job_count": 1,
+      "job_titles": [
+        "Inbound Sales Development Rep"
+      ]
+    },
+    {
+      "name": "Bloomreach",
+      "job_count": 1,
+      "job_titles": [
+        "Senior Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Procore Technologies",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Schoolytics",
+      "job_count": 1,
+      "job_titles": [
+        "Senior Sales Development Representative (SDR)"
+      ]
+    },
+    {
+      "name": "Runwise",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "On The Stage",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Group Black",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative (Contract)"
+      ]
+    },
+    {
+      "name": "OpenSesame",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Ontic",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "FMG Suite",
+      "job_count": 1,
+      "job_titles": [
+        "AR Sales Development Representative (Remote)"
+      ]
+    },
+    {
+      "name": "RealWork Labs",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "National Business Capital",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "Miter",
+      "job_count": 1,
+      "job_titles": [
+        "Sales Development Representative"
+      ]
+    }
+  ],
+  "total_companies": 48,
+  "total_jobs": 56
+}
